@@ -1,0 +1,85 @@
+[
+  {
+    "id": "txn1",
+    "type": "Credit",
+    "amount": 145.06,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2025-04-20",
+    "status": "Pending",
+    "authorizedUser": "Diana"
+  },
+  {
+    "id": "txn2",
+    "type": "Payment",
+    "amount": 174.0,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank",
+    "date": "2025-04-19"
+  },
+  {
+    "id": "txn3",
+    "type": "Credit",
+    "amount": 130.24,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2025-04-18",
+    "authorizedUser": "Diana"
+  },
+  {
+    "id": "txn4",
+    "type": "Payment",
+    "amount": 99.77,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank",
+    "date": "2025-04-17"
+  },
+  {
+    "id": "txn5",
+    "type": "Payment",
+    "amount": 73.58,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank",
+    "date": "2025-04-16"
+  },
+  {
+    "id": "txn6",
+    "type": "Credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Round Rock, TX",
+    "date": "2025-04-15"
+  },
+  {
+    "id": "txn7",
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Cedar Park, TX",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "txn8",
+    "type": "Credit",
+    "amount": 8.20,
+    "name": "Netflix",
+    "description": "Subscription",
+    "date": "2025-04-13"
+  },
+  {
+    "id": "txn9",
+    "type": "Credit",
+    "amount": 5.99,
+    "name": "Spotify",
+    "description": "Music Plan",
+    "date": "2025-04-12"
+  },
+  {
+    "id": "txn10",
+    "type": "Credit",
+    "amount": 12.99,
+    "name": "Amazon",
+    "description": "Order #123-456",
+    "date": "2025-04-11"
+  }
+]
